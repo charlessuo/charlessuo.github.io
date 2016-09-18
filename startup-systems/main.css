@@ -1,0 +1,39 @@
+td {
+}
+table {
+  margin: 15px 0;
+  border: 5px solid white;
+}
+html {
+  background: white;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0 auto;
+  padding: 10px;
+}
+.calc td:nth-child(1) {
+  width: 200px;
+	background: black;
+	color: white;
+	padding: 10px;
+	height: 300px;
+}
+.calc td:nth-child(2) {
+  width: 800px;
+	height: 320px;
+
+}
+.calc2 td:nth-child(1) {
+  width: 360px;
+	height: 245px;
+}
+.calc2 td:nth-child(2) {
+  width: 640px;
+	height: 220px;
+	padding: 10px;
+	color: white;
+	background: skyblue;
+
+}
